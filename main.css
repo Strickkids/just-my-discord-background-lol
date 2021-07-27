@@ -3322,14 +3322,12 @@ code {
   content: "";
   height: 2px;
   flex-grow: 1;
-/*  background: linear-gradient(to left, currentColor 50%, transparent); */
   margin-right: 5px;
 }
 .members-1998pB .membersGroup-v9BXpm:after {
   content: "";
   height: 2px;
   flex-grow: 1;
-/* background: linear-gradient(to right, currentColor 50%, transparent); */
   margin-left: 5px;
 }
 .members-1998pB .member-3-YXUe {
